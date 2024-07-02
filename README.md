@@ -1,6 +1,5 @@
 ### Hi there 👋
-</td>
-</tr>
+<table>
 <tr>
 <td align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tykim5931&show_icons=true&theme=radical)
