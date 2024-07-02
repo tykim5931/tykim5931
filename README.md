@@ -2,11 +2,11 @@
 <table>
 <tr>
 <td align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tykim5931&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tykim5931&show_icons=true&theme=radical)
 
 </td>
 <td align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tykim5931&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tykim5931&layout=compact)](https://github.com/tykim593/github-readme-stats)
 
 </td>
 </tr>
