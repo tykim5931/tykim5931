@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tykim5931&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tykim5931&layout=compact&theme=dracula)
 <!--
